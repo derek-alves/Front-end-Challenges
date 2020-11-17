@@ -21,7 +21,7 @@ export const Container = styled.div`
 
 export const InputWrapper = styled.div`
    padding:2px 10px;
-   width:70%;
+   width:80%;
    background:white;
 
    display:flex;
